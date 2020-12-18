@@ -1,0 +1,7 @@
+﻿  RadixSort.cpp
+C:\Users\leocr\source\repos\RadixSort\RadixSort.cpp(99,36): warning C4267: '+=': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=cl_int
+          ]
+  RadixSort.vcxproj -> C:\Users\leocr\source\repos\RadixSort\x64\Debug\RadixSort.exe
